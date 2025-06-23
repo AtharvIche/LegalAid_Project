@@ -51,6 +51,7 @@ backend/gradlew.bat
 # ====================
 # OS files
 # ====================
+.DS_Store
 *.bak
 *.tmp
 *.~*
