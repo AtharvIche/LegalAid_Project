@@ -51,7 +51,7 @@
 ### 1. ⚙️ Backend Setup
 
 ```bash
-git clone https://github.com/adiTyaIcHe07/LegalAidNow_Project.git
+git clone https://github.com/AtharvIche/LegalAid_Project.git
 cd LegalAidNow_Project/legalaidnow-backend
 ```
 
@@ -215,4 +215,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Built with 💻 by **Aditya Iche** – [GitHub](https://github.com/adiTyaIcHe07)
+Built with 💻 by **Atharv Iche** – [GitHub](https://github.com/AtharvIche)
