@@ -213,6 +213,9 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Contributors
 
-Built with 💻 by **Atharv Iche** – [GitHub](https://github.com/AtharvIche)
+This project was developed collaboratively by :
+
+- Aditya Iche – [GitHub](https://github.com/adiTyaIcHe07)
+- Atharv Iche - [GitHub] (https://github.com/AtharvIche)
